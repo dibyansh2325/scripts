@@ -2,6 +2,7 @@
 sudo apt install powerline
 sudo apt install git 
 sudo apt install gnome-tweaks neofetch cmatrix htop
+cd /home/lucifer/
 mkdir .themes
 mkdir .icons
 cd Documents
